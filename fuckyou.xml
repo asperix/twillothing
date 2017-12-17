@@ -1,9 +1,0 @@
-<Response>
-<Say voice="alice">
-Dear phone scammer, stop calling me. this is a waste of my time and your time. 
-</Say>
-<Pause length="1"/>
-<Say voice="alice">
-this message will repeat untill you stop calling me.
-</Say>
-</Response>
